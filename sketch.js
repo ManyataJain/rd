@@ -18,7 +18,7 @@ function setup(){
 engine = Engine.create();
  world = engine.world;
  thunder1=createSprite(400,400,10,50);
- thunder1=createSprite(450,450,10,50);
+ thunder2=createSprite(450,450,10,50);
    umb=new Umbrella(700,400);
    createCanvas(1600,1600);  
 
